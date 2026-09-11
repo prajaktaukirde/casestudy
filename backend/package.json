@@ -1,0 +1,12 @@
+{
+  "name": "portfolio-backend",
+  "version": "1.0.0",
+  "description": "Node.js Backend for Dynamic Portfolio Dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "author": "Prajakta Ukirde",
+  "license": "ISC"
+}
